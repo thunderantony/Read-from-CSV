@@ -1,4 +1,6 @@
 # Read-from-CSV
+## NAME:ANTHONY RAJ.N
+## REG.NO:212223230017
 ## AIM:
 To write a python program for reading the csv file content
 ## ALGORITHM:
